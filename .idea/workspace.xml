@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="76e81770-0ac9-4c65-9f3f-c4f8103d1234" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/file/breedlove-jason-developer-resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/file/breedlove-jason-developer-resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +31,12 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jason/Projects/Portfolio/jasonbreedlove.dev/assets/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/storage/Projects/Portfolio/jasonbreedlove.dev&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -55,6 +58,9 @@
       <workItem from="1656185150070" duration="3582000" />
       <workItem from="1656190993707" duration="437000" />
       <workItem from="1656282032662" duration="1205000" />
+      <workItem from="1656786370862" duration="7845000" />
+      <workItem from="1656803274934" duration="172000" />
+      <workItem from="1656866784955" duration="846000" />
     </task>
     <servers />
   </component>
